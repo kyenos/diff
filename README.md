@@ -1,3 +1,5 @@
+# This is a dev branch, do not use for production as it will never be stable
+
 # Diff [![PkgGoDev](https://pkg.go.dev/badge/github.com/r3labs/diff)](https://pkg.go.dev/github.com/r3labs/diff) [![Go Report Card](https://goreportcard.com/badge/github.com/r3labs/diff)](https://goreportcard.com/report/github.com/r3labs/diff) [![Build Status](https://travis-ci.org/r3labs/diff.svg?branch=master)](https://travis-ci.org/r3labs/diff)
 
 A library for diffing golang structures and values.
